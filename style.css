@@ -1,0 +1,13 @@
+#parnet {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+
+    max-width: 300px;
+   
+}
+#parnet img {
+    max-width: 100%;
+    height: auto;
+}
+
